@@ -14,6 +14,14 @@
         label="Go to Second Page"
         no-caps
       />
+
+      <q-btn
+        class="q-mt-md"
+        color="primary"
+        to="/test3"
+        label="Test3"
+        no-caps
+      />
     </div>
   </q-page>
 </template>
